@@ -1,0 +1,21 @@
+- Хорошее видео по Sprite Stacking: https://www.youtube.com/watch?v=sNgb3guusMA
+
+- Интервью с разработчиком Nium. Привязка к моменту, когда разговор заходит о Sprite Stacking: https://youtu.be/iAJ-tyiUVag?t=2404
+
+
+
+- Топовые каналы о Pixel art:
+-- Pixel Pete
+https://www.youtube.com/channel/UC7OO80qJzGTLOj_6-0dmOiA
+
+-- AdamCYounis
+https://www.youtube.com/c/AdamCYounis
+
+-- Brandon James Greer:
+https://www.youtube.com/channel/UCC26K7LTSrJK0BPAUyyvtQg
+
+
+
+- Топовый канал о Pygame
+-- DaFluffyPotato
+https://www.youtube.com/channel/UCYNrBrBOgTfHswcz2DdZQFA
